@@ -53,7 +53,7 @@ function Galeria1 () {
 				<img src="https://i.ibb.co/FgMWKM4/cartaalbum.jpg" class="card-img-top" alt="..."/>
 				<div class="card-body">
 				  <h5 class="card-title">Curso de Diseño Web</h5>
-				  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				  <p class="card-text">CRUZ CALLO BRYAN PEDRO</p>
 				  <a href="#" class="btn btn-primary">Ir a la pagina Web</a>
 				</div>
 			  
